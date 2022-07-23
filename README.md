@@ -1,0 +1,2 @@
+# remoterepo
+DevOps class practical
